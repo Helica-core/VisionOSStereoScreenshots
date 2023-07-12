@@ -3,6 +3,8 @@
 Streams the visionOS Simulator to a Meta Quest wirelessly with [ALVR](https://github.com/alvr-org/ALVR) installed.
 
 Tested with Xcode 15 beta 2 / macOS 14 beta 2 on Apple Silicon, Meta Quest (original).
+Tested with Xcode 15 beta 2 / macOS 13.4.1 on Intel Silicon, Meta Quest Pro.
+
 
 ### Usage
 
